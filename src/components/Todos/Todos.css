@@ -1,0 +1,9 @@
+.users {
+  background-color: beige;
+  padding: 16px;
+  margin: 10px auto;
+  width: 400px;
+}
+.users.completed {
+  background-color: lightgray;
+}
